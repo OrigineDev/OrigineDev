@@ -1,0 +1,97 @@
+{
+"redirect" : {
+
+// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
+// pastikan mode offline mp3 true jika merubah ke mode mp3
+// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
+
+"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+
+// testing server json yang dipakai
+"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+
+// Redirect ke apps lain 
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+
+// main ads ke backup ads 
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+
+//     mode pengaturan iklan
+//     Mode ADMOB       Admob backup Unity Backup Startapp
+//     Mode FAN         FAN backup Unity Backup Startapp
+//     Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     Mode UNITY       Unity backup Startapp
+//     Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+
+"INTER_COUNT" : "20",
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
+
+"MODE_OFFLINE_MP3" : false,
+"ENABLE_STICKY_NOTIFICATION" : true,
+
+"STARTAPPID" : "201365479",
+
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+
+"HPK_ALIENDROID" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "Bank Jenius",
+"HPK_ADMOB3" : "Simpati",
+"HPK_ADMOB4" : "Telkomsel",
+"HPK_ADMOB5" : "Donasi",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
+
+"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
+
+"BUTTON_START" : "START",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_RATING" : "RATING NOW",
+
+"EXIT_POPUP_DIALOG" : "
+Agar Kami lebih semangat mengembangkan Aplikasi ini
+
+Bantu kami dengan rating bingtang 5 ya 
+
+Klik tombol rating 
+",
+"RATE_BUTTON" : "Rate 5 Stars",
+"LATER_BUTTON" : "Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this app is awesome 
+
+you need try to donwload this app
+i.ve download and so much happy
+
+",
+
+"MORE_BUTTON" : "Share Via WhatsApp",
+// Jika share button TRUE maka tombol MORE berubah SHARE
+// isi url more apps jika ENABLE_SHARE_BUTTON  is false
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
+
+ }
+}
