@@ -28,10 +28,10 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 20,
+"INTER_COUNT" : 2,
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-4292942979500773/846768703xx9",
+"ADMOB_BANNER" : "ca-app-pub-4292942979500773/351646545xx9",
 "ADMOB_OPENADS" : "BIARKAN KOSONG",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -41,7 +41,7 @@
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "12345",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "20028899xx1",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
@@ -68,32 +68,31 @@ this the best apps ever, ive try it and so awesome
 you need to try download this too bro
 ",
 "MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.origine.laidback"
 
 }
 ]
 ,"Mp3": [
 
-{    "name_mp3": "GIRL_LIKE_ME.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/01.mp3"  },
-{    "name_mp3": "DONT_YOU_WORRY.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/02.mp3"  },
-{    "name_mp3": "Cant_Remember_to_Forget_You.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/02.mp3"  },
+{    "name_mp3": "GIRL LIKE ME.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/01.mp3"  },
+{    "name_mp3": "DONT YOU WORRY.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/02.mp3"  },
+{    "name_mp3": "Cant Remember_to_Forget_You.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/02.mp3"  },
 {    "name_mp3": "Chantaje.mp3",      "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/03.mp3"  },
-{    "name_mp3": "Hips_Dont_Lie.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/04.mp3"  },
-{    "name_mp3": "La_La_La_.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/05.mp3"  },
-{    "name_mp3": "She_Wolf.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/06.mp3"  },
-{    "name_mp3": "Try_Everything.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/07.mp3"  },
-{    "name_mp3": "Waka_Waka.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/08.mp3"  },
+{    "name_mp3": "Hips Dont_Lie.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/04.mp3"  },
+{    "name_mp3": "La La La_.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/05.mp3"  },
+{    "name_mp3": "She Wolf.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/06.mp3"  },
+{    "name_mp3": "Try Everything.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/07.mp3"  },
+{    "name_mp3": "Waka Waka.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/08.mp3"  },
 {    "name_mp3": "Whenever Wherever.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/09.mp3"  },
 {    "name_mp3": "Monotonía.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/10.mp3"  },
-{    "name_mp3": "Te_Felicito.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/11.mp3"  },
-{    "name_mp3": "Monotonía_El_Gordo_La_Flaca.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/12.mp3"  }
+{    "name_mp3": "Te Felicito.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/11.mp3"  },
+{    "name_mp3": "Monotonía El Gordo La Flaca.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/12.mp3"  }
 
 
 ],
 "Wallpaper": [
 
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://archive.org/download/wall13_202210/wall1.jpg"  },
+    {    "image": "https://archive.org/download/wall13_202210/wall1.jpg"  },
     {    "image": "https://archive.org/download/wall13_202210/wall2.jpg"  },
     {    "image": "https://archive.org/download/wall13_202210/wall3.jpg"  },
     {    "image": "https://archive.org/download/wall13_202210/wall4.jpg"  },
