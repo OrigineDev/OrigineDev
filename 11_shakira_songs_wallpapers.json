@@ -74,8 +74,20 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-   {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  },
-   {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/01.mp3"  }
+{    "name_mp3": "GIRL_LIKE_ME.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/01.mp3"  },
+{    "name_mp3": "DON'T_YOU_WORRY.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/02.mp3"  },
+{    "name_mp3": "Can't_Remember_to_Forget_You.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/02.mp3"  },
+{    "name_mp3": "Chantaje.mp3",  "link_mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/03.mp3"  },
+{    "name_mp3": "Hips_Don't_Lie.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/04.mp3"  },
+{    "name_mp3": "La_La_La_.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/05.mp3"  },
+{    "name_mp3": "She_Wolf.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/06.mp3"  },
+{    "name_mp3": "Try_Everything.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/07.mp3"  },
+{    "name_mp3": "Waka_Waka.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/08.mp3"  },
+{    "name_mp3": "Whenever,Wherever.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/09.mp3"  },
+{    "name_mp3": "Monotonía.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/10.mp3"  },
+{    "name_mp3": "Te_Felicito.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/11.mp3"  },
+{    "name_mp3": "Monotonía_El_Gordo_La_Flaca.mp3",    "link_mp3": "https://archive.org/download/02_20221029_20221029_0901/12.mp3"  }
+
 
 ],
 "Wallpaper": [
