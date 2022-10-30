@@ -9,10 +9,6 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
 // memanggil data dari json "online" atau json "offline"
-//  online atau offline
-// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
-//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
-// online offline huruf kecil
 "MODE_MP3_ONLINE_OFFLINE" : "online",
 
 
@@ -32,7 +28,7 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 2,
+"INTER_COUNT" : 20,
 
 "ADMOB_INTER" : "ca-app-pub-4292942979500773/846768703xx9",
 "ADMOB_BANNER" : "ca-app-pub-4292942979500773/351646545xx9",
@@ -42,10 +38,10 @@
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
 "UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "intertitial",
+"UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "12345",
 
-"STARTAPPID" : "20028899xx1",
+"STARTAPPID" : "123154",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
@@ -72,7 +68,7 @@ this the best apps ever, ive try it and so awesome
 you need to try download this too bro
 ",
 "MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.origine.laidback"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
 
 }
 ]
