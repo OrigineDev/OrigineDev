@@ -47,7 +47,7 @@
 
 "STARTAPPID" : "20028899xx1",
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
 "TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
@@ -96,21 +96,21 @@ you need to try download this too bro
 ],
 "Wallpaper": [
 
- {    "image": "file:///android_asset/wall1.jpg"  },
- {    "image": "file:///android_asset/wall2.jpg"  },
- {    "image": "file:///android_asset/wall3.jpg"  },
- {    "image": "file:///android_asset/wall4.jpg"  },
- {    "image": "file:///android_asset/wall5.jpg"  },
- {    "image": "file:///android_asset/wall6.jpg"  },
- {    "image": "file:///android_asset/wall7.jpg"  },
- {    "image": "file:///android_asset/wall8.jpg"  },
- {    "image": "file:///android_asset/wall9.jpg"  },
- {    "image": "file:///android_asset/wall10.jpg"  },
- {    "image": "file:///android_asset/wall11.jpg"  },
- {    "image": "file:///android_asset/wall12.jpg"  },
- {    "image": "file:///android_asset/wall13.jpg"  },
- {    "image": "file:///android_asset/wall14.jpg"  },
- {    "image": "file:///android_asset/wall15.jpg"  }
+ {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall1.jpg"  },
+ {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall2.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall3.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall4.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall5.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall6.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall7.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall8.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall9.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall10.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall11.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall12.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall13.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall14.jpg"  },
+  {    "image": "https://ia601502.us.archive.org/9/items/wall13_202210/wall15.jpg"  }
 
 ]
 }
