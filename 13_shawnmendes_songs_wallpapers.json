@@ -1,0 +1,119 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 2,
+
+"ADMOB_INTER" : "ca-app-pub-4292942979500773/758501605xx3",
+"ADMOB_BANNER" : "ca-app-pub-4292942979500773/909609519xx9",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "12345",
+
+"STARTAPPID" : "20028899xx1",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+ {   "name_mp3": "Heartbeat.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/01.mp3"  },
+{    "name_mp3": "If I Can t Have You.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/02.mp3"  },
+{    "name_mp3": "Imagination.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/03.mp3"  },
+{    "name_mp3": "n My Blood.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/04.mp3"  },
+{    "name_mp3": "It ll Be Okay.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/05.mp3"  },
+{    "name_mp3": "Mercy.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/06.mp3"  },
+{    "name_mp3": "Stitches.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/07.mp3"  },
+{    "name_mp3": "There s Nothing Holdin Me Back.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/08.mp3"  },
+{    "name_mp3": "heres Nothing Holding Me Back .mp3",  "link_mp3": "https://archive.org/download/shawn_mds/09.mp3"  },
+{    "name_mp3": "Treat You Better.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/10.mp3"  },
+{    "name_mp3": "When You're Gone.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/11.mp3"  },
+{    "name_mp3": "Wonder.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/12.mp3"  },
+{    "name_mp3": "Monster.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/13.mp3"  },
+{    "name_mp3": "Summer Of Love.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/14.mp3"  },
+{    "name_mp3": "Lost In Japan.mp3",  "link_mp3": "https://archive.org/download/shawn_mds/15.mp3"  }
+
+
+],
+"Wallpaper": [
+
+    {    "image": "https://archive.org/download/shawn_mds/wall1.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall2.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall3.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall4.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall5.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall6.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall7.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall8.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall9.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall10.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall11.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall12.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall13.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall14.jpg"  },
+    {    "image": "https://archive.org/download/shawn_mds/wall15.jpg"  },
+	{    "image": "https://archive.org/download/shawn_mds/wall16.jpg"  }
+
+]
+}
