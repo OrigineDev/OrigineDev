@@ -1,0 +1,122 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 2,
+
+"ADMOB_INTER" : "ca-app-pub-4292942979500773/427348467xx0",
+"ADMOB_BANNER" : "ca-app-pub-4292942979500773/446505636xx5",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "12345",
+
+"STARTAPPID" : "20028899xx1"",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+{    "name_mp3": "01-Bejeweled Reaction.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/01.mp3"  },
+{    "name_mp3": "02-Anti-Hero.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/02.mp3"  },
+{    "name_mp3": "03-august.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/03.mp3"  },
+{    "name_mp3": "04-Back To December.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/04.mp3"  },
+{    "name_mp3": "05-Bejeweled.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/05.mp3"  },
+{    "name_mp3": "06-Blank Space.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/06.mp3"  },
+{    "name_mp3": "07-Look What You Made Me Do.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/07.mp3"  },
+{    "name_mp3": "08-Love Story.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/08.mp3"  },
+{    "name_mp3": "09-Midnight Rain.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/09.mp3"  },
+{    "name_mp3": "11-Shake It Off.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/10.mp3"  },
+{    "name_mp3": "12-Touching Tribute To Loretta Lynn And Elon Musk Conspiracy Theories.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/11.mp3"  },
+{    "name_mp3": "12-Style_-CmadmM5cOk.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/12.mp3"  },
+{    "name_mp3": "13-The Way I Loved You.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/13.mp3"  },
+{    "name_mp3": "14-We Are Never Ever Getting Back Together.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/14.mp3"  },
+{    "name_mp3": "15-Wildest Dreams.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/15.mp3"  },
+{    "name_mp3": "16-willow.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/16.mp3"  },
+{    "name_mp3": "17-You Belong With Me.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/17.mp3"  },
+{    "name_mp3": "18-veals The Story Behind All Too Well.mp3",  "link_mp3": "https://archive.org/download/taylor_sw/18.mp3"  }
+
+
+
+],
+"Wallpaper": [
+
+    {    "image": "https://archive.org/download/taylor_sw/wall1.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall2.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall3.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall4.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall5.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall6.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall7.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall8.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall9.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall10.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall11.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall12.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall13.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall14.jpg"  },
+    {    "image": "https://archive.org/download/taylor_sw/wall15.jpg"  },
+	{    "image": "https://archive.org/download/taylor_sw/wall16.jpg"  }
+]
+}
