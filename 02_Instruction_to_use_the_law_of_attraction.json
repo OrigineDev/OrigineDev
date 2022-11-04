@@ -25,7 +25,7 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
 "PENGATURAN_IKLAN_INTER" : "APPLOVIN",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
