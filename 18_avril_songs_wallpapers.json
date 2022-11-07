@@ -1,0 +1,148 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 2,
+
+"ADMOB_INTER" : "",
+"ADMOB_BANNER" : "",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "12345",
+
+"STARTAPPID" : "20028899xx1"",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+{    "name_mp3": " I M a MESS (with YUNGBLUD)",  "link_mp3": "https://archive.org/download/avril_lvg/000.mp3"  },
+{    "name_mp3": "FLAMES (FEAT. MOD SUN) ",  "link_mp3": "https://archive.org/download/avril_lvg/00.mp3"  },
+{    "name_mp3": "COMPLICATED",  "link_mp3": "https://archive.org/download/avril_lvg/01.mp3"  },
+{    "name_mp3": "GIRLFRIEND (RADIO EDIT)",  "link_mp3": "https://archive.org/download/avril_lvg/02.mp3"  },
+{    "name_mp3": "HEAD ABOVE WATER",  "link_mp3": "https://archive.org/download/avril_lvg/03.mp3"  },
+{    "name_mp3": "WHAT THE HELL",  "link_mp3": "https://archive.org/download/avril_lvg/04.mp3"  },
+{    "name_mp3": "WHAT THE HELL (ACOUSTIC VERSION)",  "link_mp3": "https://archive.org/download/avril_lvg/05.mp3"  },
+{    "name_mp3": "WISH YOU WERE HERE",  "link_mp3": "https://archive.org/download/avril_lvg/06.mp3"  },
+{    "name_mp3": "SMILE",  "link_mp3": "https://archive.org/download/avril_lvg/07.mp3"  },
+{    "name_mp3": "WHEN YOU'RE GONE (WALMART SOUNDCHECK)",  "link_mp3": "https://archive.org/download/avril_lvg/08.mp3"  },
+{    "name_mp3": "HERE'S TO NEVER GROWING UP",  "link_mp3": "https://archive.org/download/avril_lvg/09.mp3"  },
+{    "name_mp3": "I M WITH YOU",  "link_mp3": "https://archive.org/download/avril_lvg/10.mp3"  },
+{    "name_mp3": "ROCK N ROLL",  "link_mp3": "https://archive.org/download/avril_lvg/11.mp3"  },
+{    "name_mp3": "HELLO KITTY",  "link_mp3": "https://archive.org/download/avril_lvg/12.mp3"  },
+{    "name_mp3": "SK8ER BOI",  "link_mp3": "https://archive.org/download/avril_lvg/13.mp3"  },
+{    "name_mp3": "HE WASN'T",  "link_mp3": "https://archive.org/download/avril_lvg/14.mp3"  },
+{    "name_mp3": "RUNAWAY",  "link_mp3": "https://archive.org/download/avril_lvg/15.mp3"  },
+{    "name_mp3": "I CAN DO BETTER",  "link_mp3": "https://archive.org/download/avril_lvg/16.mp3"  },
+{    "name_mp3": "BAD GIRL",  "link_mp3": "https://archive.org/download/avril_lvg/18.mp3"  },
+{    "name_mp3": "HOT",  "link_mp3": "https://archive.org/download/avril_lvg/19.mp3"  },
+{    "name_mp3": "ALONE",  "link_mp3": "https://archive.org/download/avril_lvg/20.mp3"  },
+{    "name_mp3": "TOGETHER",  "link_mp3": "https://archive.org/download/avril_lvg/21.mp3"  },
+{    "name_mp3": "FLY",  "link_mp3": "https://archive.org/download/avril_lvg/22.mp3"  },
+{    "name_mp3": "BLACK STAR",  "link_mp3": "https://archive.org/download/avril_lvg/23.mp3"  },
+{    "name_mp3": "DON'T TELL ME",  "link_mp3": "https://archive.org/download/avril_lvg/24.mp3"  },
+{    "name_mp3": "I LOVE YOU",  "link_mp3": "https://archive.org/download/avril_lvg/25.mp3"  },
+{    "name_mp3": "INNOCENCE",  "link_mp3": "https://archive.org/download/avril_lvg/26.mp3"  },
+{    "name_mp3": "I DON'T HAVE TO TRY",  "link_mp3": "https://archive.org/download/avril_lvg/27.mp3"  },
+{    "name_mp3": "ONE OF THOSE GIRLS",  "link_mp3": "https://archive.org/download/avril_lvg/28.mp3"  },
+{    "name_mp3": "CONTAGIOUS",  "link_mp3": "https://archive.org/download/avril_lvg/29.mp3"  },
+{    "name_mp3": "THINGS I'LL NEVER SAY",  "link_mp3": "https://archive.org/download/avril_lvg/30.mp3"  },
+{    "name_mp3": "REMEMBER WHEN",  "link_mp3": "https://archive.org/download/avril_lvg/31.mp3"  },
+{    "name_mp3": "PUSH",  "link_mp3": "https://archive.org/download/avril_lvg/32.mp3"  },
+{    "name_mp3": "EVERYTHING BACK BUT YOU",  "link_mp3": "https://archive.org/download/avril_lvg/33.mp3"  },
+{    "name_mp3": "GOODBYE",  "link_mp3": "https://archive.org/download/avril_lvg/34.mp3"  },
+{    "name_mp3": "DARLIN",  "link_mp3": "https://archive.org/download/avril_lvg/35.mp3"  },
+{    "name_mp3": "I ALWAYS GET WHAT I WANT",  "link_mp3": "https://archive.org/download/avril_lvg/36.mp3"  },
+{    "name_mp3": "FORGOTTEN",  "link_mp3": "https://archive.org/download/avril_lvg/37.mp3"  },
+{    "name_mp3": "MY HAPPY ENDING",  "link_mp3": "https://archive.org/download/avril_lvg/38.mp3"  },
+{    "name_mp3": "TOO MUCH TO ASK",  "link_mp3": "https://archive.org/download/avril_lvg/39.mp3"  },
+{    "name_mp3": "NOBODY'S FOOL",  "link_mp3": "https://archive.org/download/avril_lvg/40.mp3"  },
+{    "name_mp3": "MY WORLD",  "link_mp3": "https://archive.org/download/avril_lvg/41.mp3"  },
+{    "name_mp3": "STOP STANDING THERE",  "link_mp3": "https://archive.org/download/avril_lvg/42.mp3"  },
+{    "name_mp3": "TOMORROW",  "link_mp3": "https://archive.org/download/avril_lvg/43.mp3"  },
+{    "name_mp3": "NOT ENOUGH",  "link_mp3": "https://archive.org/download/avril_lvg/44.mp3"  }
+
+
+],
+"Wallpaper": [
+
+    {    "image": "https://archive.org/download/avril_lvg/wall1.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall2.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall3.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall4.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall5.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall6.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall7.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall8.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall9.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall10.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall11.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall12.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall13.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall14.jpg"  },
+    {    "image": "https://archive.org/download/avril_lvg/wall15.jpg"  }
+
+]
+}
