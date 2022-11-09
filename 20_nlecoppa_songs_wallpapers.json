@@ -78,38 +78,37 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-{    "name_mp3": "Ice Spice.mp3",  "link_mp3": "https://archive.org/download/nle/01.mp3"  },
-{    "name_mp3": "Do It Again (ft. 2Rare).mp3",  "link_mp3": "https://archive.org/download/nle/02.mp3"  },
-{    "name_mp3": "Final Warning.mp3",  "link_mp3": "https://archive.org/download/nle/03.mp3"  },
-{    "name_mp3": "Jumpin (ft. Polo G).mp3",  "link_mp3": "https://archive.org/download/nle/04.mp3"  },
-{    "name_mp3": "Narrow Road feat. Lil Baby.mp3",  "link_mp3": "https://archive.org/download/nle/05.mp3"  },
-{    "name_mp3": "Shotta Flow.mp3",  "link_mp3": "https://archive.org/download/nle/06.mp3"  },
-{    "name_mp3": "Shotta Flow Remix ft. Blueface.mp3",  "link_mp3": "https://archive.org/download/nle/07.mp3"  },
-{    "name_mp3": "Walk Em Down feat. Roddy Ricch.mp3",  "link_mp3": "https://archive.org/download/nle/08.mp3"  },
-{    "name_mp3": "Capo.mp3",  "link_mp3": "https://archive.org/download/nle/09.mp3"  },
-{    "name_mp3": "9 Lives.mp3",  "link_mp3": "https://archive.org/download/nle/10.mp3"  },
-{    "name_mp3": "In The UK.mp3",  "link_mp3": "https://archive.org/download/nle/11.mp3"  }
-
+{    "name_mp3": "Ice Spice.mp3",  "link_mp3": "https://archive.org/download/nle_chop/01.mp3"  },
+{    "name_mp3": "Do It Again (ft. 2Rare).mp3",  "link_mp3": "https://archive.org/download/nle_chop/02.mp3"  },
+{    "name_mp3": "Final Warning.mp3",  "link_mp3": "https://archive.org/download/nle_chop/03.mp3"  },
+{    "name_mp3": "Jumpin (ft. Polo G).mp3",  "link_mp3": "https://archive.org/download/nle_chop/04.mp3"  },
+{    "name_mp3": "Narrow Road feat. Lil Baby.mp3",  "link_mp3": "https://archive.org/download/nle_chop/05.mp3"  },
+{    "name_mp3": "Shotta Flow.mp3",  "link_mp3": "https://archive.org/download/nle_chop/06.mp3"  },
+{    "name_mp3": "Shotta Flow Remix ft. Blueface.mp3",  "link_mp3": "https://archive.org/download/nle_chop/07.mp3"  },
+{    "name_mp3": "Walk Em Down feat. Roddy Ricch.mp3",  "link_mp3": "https://archive.org/download/nle_chop/08.mp3"  },
+{    "name_mp3": "Capo.mp3",  "link_mp3": "https://archive.org/download/nle_chop/09.mp3"  },
+{    "name_mp3": "9 Lives.mp3",  "link_mp3": "https://archive.org/download/nle_chop/10.mp3"  },
+{    "name_mp3": "In The UK.mp3",  "link_mp3": "https://archive.org/download/nle_chop/11.mp3"  }
 
 
 ],
 "Wallpaper": [
 
-    {    "image": "https://archive.org/download/nle/wall1.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall2.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall3.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall4.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall5.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall6.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall7.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall8.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall9.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall10.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall11.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall12.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall13.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall14.jpg"  },
-    {    "image": "https://archive.org/download/nle/wall15.jpg"  }
+   {    "image": "https://archive.org/download/nle_chop/wall1.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall2.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall3.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall4.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall5.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall6.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall7.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall8.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall9.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall10.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall11.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall12.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall13.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall14.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall15.jpg"  }
 
 ]
 }
