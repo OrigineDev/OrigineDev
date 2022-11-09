@@ -2,9 +2,6 @@
 "Ads": [
 {
 
-//  STATUS_APP = "0" must set 0 if your app still live on playstore
-//  and STATUS_APP = "1" if your app "suspend"
-//  fill LINK_REDIRECT with new link app
 "STATUS_APP" : "0",
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
@@ -29,10 +26,10 @@
 // FAN        backup unity backup startapp
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 2,
+"INTER_COUNT" : 20,
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
@@ -45,12 +42,13 @@
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "12345",
 
-"STARTAPPID" : "20028899xx1",
+"STARTAPPID" : "123154",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
 "TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
 
 //  Exit Dialog
 //  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
