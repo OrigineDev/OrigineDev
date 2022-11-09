@@ -9,10 +9,6 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
 // memanggil data dari json "online" atau json "offline"
-//  online atau offline
-// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
-//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
-// online offline huruf kecil
 "MODE_MP3_ONLINE_OFFLINE" : "online",
 
 
@@ -78,28 +74,35 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
-
+{    "name_mp3": "Ice Spice.mp3",  "link_mp3": "https://archive.org/download/nle_chop/01.mp3"  },
+{    "name_mp3": "Do It Again (ft. 2Rare).mp3",  "link_mp3": "https://archive.org/download/nle_chop/02.mp3"  },
+{    "name_mp3": "Final Warning.mp3",  "link_mp3": "https://archive.org/download/nle_chop/03.mp3"  },
+{    "name_mp3": "Jumpin (ft. Polo G).mp3",  "link_mp3": "https://archive.org/download/nle_chop/04.mp3"  },
+{    "name_mp3": "Narrow Road feat. Lil Baby.mp3",  "link_mp3": "https://archive.org/download/nle_chop/05.mp3"  },
+{    "name_mp3": "Shotta Flow.mp3",  "link_mp3": "https://archive.org/download/nle_chop/06.mp3"  },
+{    "name_mp3": "Shotta Flow Remix ft. Blueface.mp3",  "link_mp3": "https://archive.org/download/nle_chop/07.mp3"  },
+{    "name_mp3": "Walk Em Down feat. Roddy Ricch.mp3",  "link_mp3": "https://archive.org/download/nle_chop/08.mp3"  },
+{    "name_mp3": "Capo.mp3",  "link_mp3": "https://archive.org/download/nle_chop/09.mp3"  },
+{    "name_mp3": "9 Lives.mp3",  "link_mp3": "https://archive.org/download/nle_chop/10.mp3"  },
+{    "name_mp3": "In The UK.mp3",  "link_mp3": "https://archive.org/download/nle_chop/11.mp3"  }
 
 ],
 "Wallpaper": [
 
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (2).jpg"  },
- {    "image": "file:///android_asset/wallpaper (3).jpg"  },
- {    "image": "file:///android_asset/wallpaper (4).jpg"  },
- {    "image": "file:///android_asset/wallpaper (5).jpg"  },
- {    "image": "file:///android_asset/wallpaper (6).jpg"  },
- {    "image": "file:///android_asset/wallpaper (7).jpg"  }
+    {    "image": "https://archive.org/download/nle_chop/wall1.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall2.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall3.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall4.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall5.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall6.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall7.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall8.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall9.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall10.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall11.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall12.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall13.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall14.jpg"  },
+    {    "image": "https://archive.org/download/nle_chop/wall15.jpg"  }
 
-]
-}
+]}
