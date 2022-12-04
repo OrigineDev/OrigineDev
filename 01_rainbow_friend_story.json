@@ -1,0 +1,47 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"AIzaSyBC8Og5sforcgTYpcvUQg6Dx4vA4-sL9Ts",
+      "api_key_youtube2":"AIzaSyBiNiq0MfVr1uMLQ2G3vD7r8eDxEHd-x2w",
+      "api_key_youtube3":"AIzaSyB528bvNbVgNU0jWeyNnndxywO1mwFXpzc",
+      "api_key_youtube4":"AIzaSyC72jIqNtwPAM6MMJL7Lcr_AIqYBPnqNJs",
+      "api_key_youtube5":"AIzaSyDvfieVpCTb95IEfEVFifFjqO-FEMODxrA",
+      "playlist_id":"PLRM-obkH47ut3PD5571EW10yxr532vscI",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "asuransi,insurance",
+      "high_paying_keyword_2": "saham,forex",
+      "high_paying_keyword_3": "lawyer,pengacara",
+      "high_paying_keyword_4": "business,bisnis",
+      "high_paying_keyword_5": "mobil,car",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "IQ Test vs The Moron Test",
+       "image": "",
+       "link": "null"
+     },
+    {
+       "id": 11,
+       "title": "Ayo Shalat",
+       "image": "https://play-lh.googleusercontent.com/3IM72AsKuO4DUbgkrB1MRRExSic7PIEZiEbTBllPNDvK9MYlufQvfgjT7Jsbm324qg=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.ayosholat"
+    }
+   ]
+}
