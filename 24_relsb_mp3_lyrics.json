@@ -45,12 +45,12 @@
 "ADMOB_INTER" : "ca-app-pub-4292942979500773/8380749056",
 "ADMOB_NATIV" : "ca-app-pub-4292942979500773/7830084714",
 
-"HPK_ALIENDROID" : "insurance",
-"HPK_ADMOB1" : "lawyer",
-"HPK_ADMOB2" : "car",
-"HPK_ADMOB3" : "building",
-"HPK_ADMOB4" : "car insurance",
-"HPK_ADMOB5" : "Donation",
+"HPK_ALIENDROID" : "insurance,asuransi",
+"HPK_ADMOB1" : "lawyer,pengacara",
+"HPK_ADMOB2" : "car,mobil",
+"HPK_ADMOB3" : "saham,forex",
+"HPK_ADMOB4" : "business,bisnis",
+"HPK_ADMOB5" : "Donation,donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
