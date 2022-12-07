@@ -8,13 +8,13 @@
       "playlist_id":"PLRM-obkH47ut3PD5571EW10yxr532vscI",
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "main_ads_banner": "ca-app-pub-4292942979500773/5765093926",
+      "main_ads_intertitial":"ca-app-pub-4292942979500773/5310670492",
+      "main_ads_natives":"ca-app-pub-4292942979500773/3642365601",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_admob":"ca-app-pub-4292942979500773/3386342591",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -33,15 +33,15 @@
    "More": [
      {
        "id": 1,
-       "title": "IQ Test vs The Moron Test",
-       "image": "",
-       "link": "null"
+       "title": "Rels B Mp3 Lyrics",
+       "image": "https://play-lh.googleusercontent.com/pBq48oT6HG4aoystbodx2I5b5h9egx6fc0HbQ_DrsCJmQps9wthF-DcgjcCzwSPBf_w=w240-h480",
+        "link": "https://play.google.com/store/apps/details?id=com.origine.relsbmp3"
      },
     {
        "id": 11,
-       "title": "Ayo Shalat",
-       "image": "https://play-lh.googleusercontent.com/3IM72AsKuO4DUbgkrB1MRRExSic7PIEZiEbTBllPNDvK9MYlufQvfgjT7Jsbm324qg=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.ayosholat"
+       "title": "Punto MP3 Lyrics",
+       "image": "https://play-lh.googleusercontent.com/A3RBFnGVRfaMLN-sqd3UoNhRtRIc44yQX-Lz5pu2t7XMR4mp8s4B6ZGxiEUn2NaaOaQ=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.puntoMp3Lyrics"
     }
    ]
 }
