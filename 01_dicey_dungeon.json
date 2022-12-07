@@ -1,0 +1,47 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"AIzaSyBHw-sWaiS1dyTu_05X-PZYWoMRWOpF3D4",
+      "api_key_youtube2":"AIzaSyCSicB0BS9PWdhc5W7h2HyuoaBiVkuZx_I",
+      "api_key_youtube3":"AIzaSyBHVT3ZRVs-QqWk3t1M7pFWBSpuS0Cn6Bc",
+      "api_key_youtube4":"AIzaSyC4le9fj1t1mFFYuIKmcCWAyV1NbybkB6Y",
+      "api_key_youtube5":"AIzaSyCdmwh1-fhUHJU3CHCf-fYyDVT-8fzX9C8",
+      "playlist_id":"PLRM-obkH47usHiZ9loVgL5M0FdPEksvB4",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "asuransi,insurance",
+      "high_paying_keyword_2": "saham,forex",
+      "high_paying_keyword_3": "lawyer,pengacara",
+      "high_paying_keyword_4": "business,bisnis",
+      "high_paying_keyword_5": "mobil,car",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "Rels B Mp3 Lyrics",
+       "image": "https://play-lh.googleusercontent.com/pBq48oT6HG4aoystbodx2I5b5h9egx6fc0HbQ_DrsCJmQps9wthF-DcgjcCzwSPBf_w=w240-h480",
+        "link": "https://play.google.com/store/apps/details?id=com.origine.relsbmp3"
+     },
+    {
+       "id": 2,
+       "title": "Punto MP3 Lyrics",
+       "image": "https://play-lh.googleusercontent.com/A3RBFnGVRfaMLN-sqd3UoNhRtRIc44yQX-Lz5pu2t7XMR4mp8s4B6ZGxiEUn2NaaOaQ=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.puntoMp3Lyrics"
+    }
+   ]
+}
