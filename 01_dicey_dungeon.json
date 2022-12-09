@@ -8,13 +8,13 @@
       "playlist_id":"PLRM-obkH47usHiZ9loVgL5M0FdPEksvB4",
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "main_ads_banner": "ca-app-pub-4292942979500773/4401687583",
+      "main_ads_intertitial":"ca-app-pub-4292942979500773/3196417126",
+      "main_ads_natives":"ca-app-pub-4292942979500773/5835060893",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_admob":"ca-app-pub-4292942979500773/3088605910",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -42,6 +42,24 @@
        "title": "Punto MP3 Lyrics",
        "image": "https://play-lh.googleusercontent.com/A3RBFnGVRfaMLN-sqd3UoNhRtRIc44yQX-Lz5pu2t7XMR4mp8s4B6ZGxiEUn2NaaOaQ=w240-h480",
        "link": "https://play.google.com/store/apps/details?id=com.origine.puntoMp3Lyrics"
+    },
+     {
+       "id": 3,
+       "title": "Rainbow Friend Story",
+       "image": "https://play-lh.googleusercontent.com/43rG_6J37H5q-EjzOALC5lVRiXwEpDzmIbZCw-_bnMxjKIL8FRyxiHD5FBBb1jyfJg=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.rainbowmonsters"
+    },
+     {
+       "id": 4,
+       "title": "Shakira Songs-Wallpapers",
+       "image": "https://play-lh.googleusercontent.com/FBA65Lw4RrmBv2z-InpiDInHI9l7l5Sw4zjWer73WCG-MIcaF1opxTeMUEiL7Nrwn8A=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.shakira.songs"
+    },
+     {
+       "id": 5,
+       "title": "Taylor Swift Songs-Wallpapers",
+       "image": "https://play-lh.googleusercontent.com/9U1Vx7swfPEU1wx3cXJ-fu4MmhmY09BGjQnH8ugFmhyHhJFUDJuuMf_JZSUFKCxG8JsI=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.taylorswifthsongs"
     }
    ]
 }
