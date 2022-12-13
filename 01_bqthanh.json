@@ -60,6 +60,12 @@
        "title": "Taylor Swift Songs-Wallpapers",
        "image": "https://play-lh.googleusercontent.com/9U1Vx7swfPEU1wx3cXJ-fu4MmhmY09BGjQnH8ugFmhyHhJFUDJuuMf_JZSUFKCxG8JsI=w240-h480",
        "link": "https://play.google.com/store/apps/details?id=com.origine.taylorswifthsongs"
+    },
+     {
+       "id": 6,
+       "title": "Brawl Stars Videos",
+       "image": "https://play-lh.googleusercontent.com/1sSrlQAWEFi0pPZtiTmP_8o7qIO5ovsVQJg7h7Mtn1OyN2ceS_D4d-ytAjfbWBpCsA=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.brawlstars"
     }
    ]
 }
