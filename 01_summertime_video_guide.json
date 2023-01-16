@@ -1,0 +1,71 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"AIzaSyC3uWA7J-rB8ugqGT0Wmzyr0XikmOzpuAE",
+      "api_key_youtube2":"AIzaSyCYoeUwmXaFCpYuMcPRSwbFfsWfvy-JRBE",
+      "api_key_youtube3":"AIzaSyCXt7Ydk7WiKrKGsaSBg8VH_be35aMxqVw",
+      "api_key_youtube4":"AIzaSyC5gmQV_Z-Zoztj11TUONqwOoEmn5I8M18",
+      "api_key_youtube5":"AIzaSyD95E8Hr_nQVsKch-e3fTQtICn7fqIrZsc",
+      "playlist_id":"PLRM-obkH47uuX7TeYcfZ3pBvHfYOQr3LR",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811xx1",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371xx2",
+      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "auto accident lawyer,truck accident lawyer,family law solicitors",
+      "high_paying_keyword_2": "google finance portfolio,reddit financial independence,discover financial services stock",
+      "high_paying_keyword_3": "workers comp lawyer,,criminal attorney,personal injury lawyer",
+      "high_paying_keyword_4": "tax attorney,lemon law attorney,dui attorney",
+      "high_paying_keyword_5": "car insurance,auto insurance,geico car insurance quote",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "Rels B Mp3 Lyrics",
+       "image": "https://play-lh.googleusercontent.com/pBq48oT6HG4aoystbodx2I5b5h9egx6fc0HbQ_DrsCJmQps9wthF-DcgjcCzwSPBf_w=w240-h480",
+        "link": "https://play.google.com/store/apps/details?id=com.origine.relsbmp3"
+     },
+    {
+       "id": 2,
+       "title": "Punto MP3 Lyrics",
+       "image": "https://play-lh.googleusercontent.com/A3RBFnGVRfaMLN-sqd3UoNhRtRIc44yQX-Lz5pu2t7XMR4mp8s4B6ZGxiEUn2NaaOaQ=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.puntoMp3Lyrics"
+    },
+     {
+       "id": 3,
+       "title": "Rainbow Friend Story",
+       "image": "https://play-lh.googleusercontent.com/43rG_6J37H5q-EjzOALC5lVRiXwEpDzmIbZCw-_bnMxjKIL8FRyxiHD5FBBb1jyfJg=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.rainbowmonsters"
+    },
+     {
+       "id": 4,
+       "title": "Shakira Songs-Wallpapers",
+       "image": "https://play-lh.googleusercontent.com/FBA65Lw4RrmBv2z-InpiDInHI9l7l5Sw4zjWer73WCG-MIcaF1opxTeMUEiL7Nrwn8A=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.shakira.songs"
+    },
+     {
+       "id": 5,
+       "title": "Taylor Swift Songs-Wallpapers",
+       "image": "https://play-lh.googleusercontent.com/9U1Vx7swfPEU1wx3cXJ-fu4MmhmY09BGjQnH8ugFmhyHhJFUDJuuMf_JZSUFKCxG8JsI=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.taylorswifthsongs"
+    },
+     {
+       "id": 6,
+       "title": "Brawl Stars Videos",
+       "image": "https://play-lh.googleusercontent.com/1sSrlQAWEFi0pPZtiTmP_8o7qIO5ovsVQJg7h7Mtn1OyN2ceS_D4d-ytAjfbWBpCsA=w240-h480",
+       "link": "https://play.google.com/store/apps/details?id=com.origine.brawlstars"
+    }
+   ]
+}
