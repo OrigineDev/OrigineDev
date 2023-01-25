@@ -5,16 +5,16 @@
       "api_key_youtube3":"AIzaSyC1s5oR7WwlKKyTj6ZgomoGIwVOP3PWFNw",
       "api_key_youtube4":"AIzaSyCcX-dHvRQg1-CRgWKxDsZhP_45OHYMHRQ",
       "api_key_youtube5":"AIzaSyCl21dtkndWhYBMX8b35l1p4HJs0bxKXTs",
-      "playlist_id":"PLRM-obkH47uuX7TeYcfZ3pBvHfYOQr3LR",
+      "playlist_id":"PLRM-obkH47uvk3X_xK11Pth4BdfoN7mRS",
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-4292942979500773/364236560xx1",
+      "main_ads_banner": "ca-app-pub-4292942979500773/3550998086",
+      "main_ads_intertitial":"ca-app-pub-4292942979500773/6607302615",
+      "main_ads_natives":"ca-app-pub-4292942979500773/6827079875",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-4292942979500773/338634259xx1",
+      "open_ads_admob":"ca-app-pub-4292942979500773/2046344725",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -27,7 +27,7 @@
       "high_paying_keyword_4": "tax attorney,lemon law attorney,dui attorney",
       "high_paying_keyword_5": "car insurance,auto insurance,geico car insurance quote",
       "status_app": "0",
-      "link_redirect": "https://"
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.origine.summertimeday"
     }
   ],
    "More": [
